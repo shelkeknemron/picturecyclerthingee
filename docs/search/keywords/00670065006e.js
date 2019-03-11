@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("gen",["Function"],[["generate_xml",,[["GnomeXMLInputParser",,,,0,"File:generate_wallpaper_xml.py:GnomeXMLInputParser.generate_xml","PythonClass:GnomeXMLInputParser:generate_xml"]]]]);

@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("PythonClass:GnomeXMLInputParser","GnomeXMLInputParser");NDSummary.OnSummaryLoaded("PythonClass:GnomeXMLInputParser",[["Python","Python"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[7,0,0,"GnomeXMLInputParser"],[8,0,2,"Functions","Functions"],[9,0,1,"__init__","__init__"],[10,0,1,"generate_xml","generate_xml"]]);

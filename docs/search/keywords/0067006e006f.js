@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("gno",["Class"],[["GnomeXMLInputParser",,[[,,,,0,"File:generate_wallpaper_xml.py:GnomeXMLInputParser","PythonClass:GnomeXMLInputParser"]]],["GnomeXMLWallpaper",,[[,,,,0,"File:generate_wallpaper_xml.py:GnomeXMLWallpaper","PythonClass:GnomeXMLWallpaper"]]]]);

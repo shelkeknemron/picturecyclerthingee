@@ -1,0 +1,1 @@
+NDContentPage.OnToolTipsLoaded({5:"<div class=\"NDToolTip TFunction LPython\"><div class=\"TTSummary\">Method for listing files and finding allowed image types. The use of subprocess.getoutput to call the file command makes it so that this method will only work in *nix operating systems that have the file command available.</div></div>"});

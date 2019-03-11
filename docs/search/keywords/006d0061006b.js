@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mak",["Function"],[["make_xml",,[["GnomeXMLWallpaper",,,,0,"File:generate_wallpaper_xml.py:GnomeXMLWallpaper.make_xml","PythonClass:GnomeXMLWallpaper:make_xml"]]]]);

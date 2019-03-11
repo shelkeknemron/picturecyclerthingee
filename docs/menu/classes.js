@@ -1,0 +1,1 @@
+NDMenu.OnSectionLoaded("classes.js",[[1,"GnomeXMLInputParser"],[1,"GnomeXMLWallpaper"]]);

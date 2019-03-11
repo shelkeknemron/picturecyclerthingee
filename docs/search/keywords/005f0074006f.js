@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("_to",["Function"],[["_to_seconds",,[["GnomeXMLWallpaper",,,,0,"File:generate_wallpaper_xml.py:GnomeXMLWallpaper._to_seconds","PythonClass:GnomeXMLWallpaper:_to_seconds"]]]]);
